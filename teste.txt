@@ -1,6 +1,15 @@
 Testando repositório
 Teeste
+<<<<<<< HEAD
 a
 a
 b
 c
+=======
+<<<<<<< HEAD
+bb
+=======
+Oppaa
+ei
+>>>>>>> funcao-x
+>>>>>>> main
