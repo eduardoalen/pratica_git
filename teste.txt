@@ -1,3 +1,8 @@
 Testando repositório
 Teeste
+<<<<<<< HEAD
 bb
+=======
+Oppaa
+ei
+>>>>>>> funcao-x
